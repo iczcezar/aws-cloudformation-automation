@@ -1,10 +1,10 @@
 # AWS CloudFormation Automation
 
 ## Description
-This project automates the deployment of AWS resources using CloudFormation templates and Python scripts.
+To create a CloudFormation template that deploys an EC2 instance in a VPC with both public and private subnets, associated route tables, and a NAT Gateway, you'll follow these steps. Below is a detailed template that accomplishes this, along with explanations.
 
 ## Features
-- A basic CloudFormation template to launch an EC2 instance with a security group.
+- A basic CloudFormation template to launch an EC2 instance within a VPC.
 
 ## Getting Started
 
