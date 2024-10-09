@@ -29,7 +29,7 @@ This project automates the monitoring of AWS resources using Python and AWS serv
 Feel free to submit issues or pull requests to enhance this project!
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
